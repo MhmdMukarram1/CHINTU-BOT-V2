@@ -42,7 +42,7 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/queen-angela)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MhmdMukarram1/CHINTU-BOT-V2)
 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/zim-bot?v=1)
