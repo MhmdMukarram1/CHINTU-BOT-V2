@@ -1,0 +1,2 @@
+# CHINTU-BOT-V2
+CHINTU-BOT CREATED BY ༒︎𝚁𝙴𝙳 𝙰𝙻𝙿𝙷𝙰༒︎
